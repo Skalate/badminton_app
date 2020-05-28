@@ -1,6 +1,6 @@
 # skyy
 
-A new Flutter application.
+深蓝（skyy）智能羽毛球拍前端APP
 
 ## Getting Started
 
@@ -14,3 +14,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Project
+CORE: flutter 1.12.13+hotfix.7
+JAVA: jkd 1.8.0_181
+IDE:  Android Studio 3.6.3
+
+
+
+
