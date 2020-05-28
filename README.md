@@ -26,23 +26,22 @@ IDE:  Android Studio 3.6.3
 ## 工程结构
 **工程文件结构**  
 文件夹 | 作用
- - | - 
-android | android平台相关代码
-ios | ios平台相关代码
-lib | flutter相关代码,主函数
-test | 存放测试代码
-pubspec.yaml | 配置文件，存放第三方库的依赖
-assets | 存放本地数据，内含"images"和"jsons"等文件夹
+ :-: | :-: 
+android | android平台相关代码 |
+ios | ios平台相关代码 |
+lib | flutter相关代码,主函数 |
+test | 存放测试代码 |
+pubspec.yaml | 配置文件，存放第三方库的依赖 |
+assets | 存放本地数据，内含"images"和"jsons"等文件夹 |
 
 
 **lib建议文件结构**  
 文件 | 作用
- - | - 
-common | 工具类，如通用方法类、网络接口类、保存全局变量的静态类等
-i10n | 国际化相关代码
-models | 通过json to models生成的model类文件
-routes | 存放项目的所有页面代码
-states | 保存app中需要跨组件共享的状态类
-widgets | 存放自定义Widget
-
+ :-: | :-: 
+common | 工具类，如通用方法类、网络接口类、保存全局变量的静态类等 |
+i10n | 国际化相关代码 |
+models | 通过json to models生成的model类文件 |
+routes | 存放项目的所有页面代码 |
+states | 保存app中需要跨组件共享的状态类 |
+widgets | 存放自定义Widget |
 
